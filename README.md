@@ -1,5 +1,3 @@
-效率还是很低，需要提高效率。
-
 ## webpack
 + 学习完毕webpack相关知识点webpack相关课程，总体框架如下所示。
 ### 01_webpack初体验
